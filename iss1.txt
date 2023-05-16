@@ -1,0 +1,1 @@
+Resolución del primer issue: construcción de la base de datos
